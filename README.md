@@ -41,5 +41,8 @@ all toValue() functions:
 - toFloat()
 - toLong()
 
+# How to use in projects
+since im too lazy to upload it anywhere for now you're just gonna have to drag the package into your project source.
+
 # Contributions
 feel free to contribute all you want.
